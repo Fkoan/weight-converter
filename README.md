@@ -1,4 +1,5 @@
 # weight-converter
+#This code by Fkoan
 from tkinter import *
 from tkinter import ttk
 def calculate(*args):
